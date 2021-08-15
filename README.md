@@ -1,2 +1,5 @@
 # Cv-project-2
-Playing card detector using openCv
+## OpenCv project
+
+Playing card detector using webcam.
+
